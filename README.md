@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajat Dubey</h1>
-<h3 align="center">Final-year IT student passionate about Full-Stack Development, Blockchain, and AI-driven solutions.</h3>
+<h3 align="center">Final-year Computer Engineering student passionate about Full-Stack Development, Blockchain, and AI-driven solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ad1ty-Gupta23&label=Profile%20views&color=0e75b6&style=flat" alt="Ad1ty-Gupta23" /> </p>
 
