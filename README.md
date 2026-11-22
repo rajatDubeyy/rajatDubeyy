@@ -32,7 +32,7 @@
 
 ## 🟣 ABOUT ME
 
-<img align="right" width="230" src="./assets/ronin-banner.png" alt="Cyberpunk samurai" />
+<img align="right" width="210" src="./assets/Neon AI Developer Workspace.png" alt="Cyberpunk samurai" />
 
 Hey! I'm **Rajat Dubey**, an AI/ML Engineer from India 🇮🇳, currently pursuing **PGCP in Artificial Intelligence at C-DAC**.
 
